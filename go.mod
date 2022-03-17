@@ -1,4 +1,4 @@
-module gogrpc
+module github.com/Snowlights/gogrpc
 
 go 1.15
 
